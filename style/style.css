@@ -1,0 +1,66 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: url("../background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+}
+
+input[type=number] {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  background-color: #3b82f6;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+button:hover {
+  background-color: #2563eb;
+}
+
+.result {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+
+.log {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+  max-height: 100px;
+  overflow-y: auto;
+  text-align: left;
+}
+
+.timer {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.lang-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}/*# sourceMappingURL=style.css.map */
