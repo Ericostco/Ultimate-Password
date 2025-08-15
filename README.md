@@ -9,3 +9,4 @@
 ## Icon
 - <a target="_blank" href="https://icons8.com/icon/nSs25zXBJGgY/voice">Volume</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 - <a href="https://www.flaticon.com/free-icons/3d-lock" title="3d lock icons">3d lock icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/globe" title="globe icons">Globe icons created by Uniconlabs - Flaticon</a>
